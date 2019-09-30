@@ -8,4 +8,4 @@ Thank you.
 
 # Repository Overview
 
-The course project focuses on the product-tear-down of an Industrial Internet-of-Things product. My project will focus on a wireless anti-theft remote controlled security system. The project will end with writing a research paper as the conclusion which will briefly encapsulate all the individual hardware-software elements that would go in building the specified Industrial Internet-of-Things product.
+The course focuses on aspects of computer security and the use of cloud platforms & services for industrial IoT development. The assignments provided in this repository focus on topics related to Industrial IoT. The final project focuses on the product-tear-down of an Industrial Internet-of-Things product. The project revolves around the tear-down of a wireless anti-theft remote controlled security system. The project report briefly encapsulates all the individual hardware-software elements that would go in building the specified Industrial Internet-of-Things product.
